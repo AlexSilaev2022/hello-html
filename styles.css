@@ -12,13 +12,24 @@ p {
     color: grey;
     font-size: 20px;
     margin-top: 0;
-    margin-bottom: 25px;
+    margin-bottom: 3cm;
     text-align: center;
   }
   figcaption {
-    font-size: 25px;
-    margin-left: 2cm;
+    font-size: 20px;
+    margin-left: 0cm;
     color:rgb(50, 200, 50);
   }
-  
-  
+  hr {
+    margin-bottom: 25px;
+    width: 40px;
+    height: 2px;
+    background-color: green;
+    border-color: green;
+  }
+  img {
+    margin-left: 1cm;
+    width: 10%;
+    height: 10%;
+  }
+    
